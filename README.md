@@ -1,6 +1,8 @@
-# ⏳ Pomodoro Timer App
+<img width="779" alt="pomodoro timer app" src="https://github.com/user-attachments/assets/fc3c7873-4e52-46dd-90c9-896126b6dbf2" /># ⏳ Pomodoro Timer App
 
 Pomodoro Timer es una aplicación desarrollada en **Flutter** que permite a los usuarios gestionar su tiempo de trabajo y descanso usando la técnica Pomodoro.  
+
+<img width="779" alt="pomodoro timer app" src="https://github.com/user-attachments/assets/2a3de023-3372-4873-93e3-25d5a6eaa2f4" />
 
 ✅ **Características:**  
 - Temporizador de **25 minutos** para trabajo y **4 minutos** para descanso.  
